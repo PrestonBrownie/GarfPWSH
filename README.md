@@ -2,6 +2,8 @@
 
 A GUI PowerShell multi-tool that can hold all the short scripts/functions you can’t be bothered to memorize. This is heavily WIP, and is my first PowerShell project.
 
+THE BUILT IN FUNCTIONS REQUIRE POWERSHELL 7. YOU CAN ADD FUNCTIONS FOR 5.1 AS YOU SEE FIT.
+
 ### Parameter Format
 `(PARAMETER NAME)=(VALUE)  (NEXT PARAMETER NAME)=(OTHER VALUE)`
 
